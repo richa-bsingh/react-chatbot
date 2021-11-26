@@ -1,0 +1,13 @@
+.success{
+    color: green;
+    font-size: 12px;
+}
+
+label{
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+input{
+    padding: 5px;
+}
